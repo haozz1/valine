@@ -1,2 +1,0 @@
-# valine
-valine_system
